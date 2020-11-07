@@ -6307,11 +6307,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\solucionCore\\Aplicacion\\Aplicacion.csproj",
+      "projectUniqueName": "C:\\solucionCore\\Aplicacion\\Aplicacion.csproj",
       "projectName": "Aplicacion",
-      "projectPath": "c:\\solucionCore\\Aplicacion\\Aplicacion.csproj",
+      "projectPath": "C:\\solucionCore\\Aplicacion\\Aplicacion.csproj",
       "packagesPath": "C:\\Users\\JackStv\\.nuget\\packages\\",
-      "outputPath": "c:\\solucionCore\\Aplicacion\\obj\\",
+      "outputPath": "C:\\solucionCore\\Aplicacion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\JackStv\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6327,11 +6327,11 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "c:\\solucionCore\\Dominio\\Dominio.csproj": {
-              "projectPath": "c:\\solucionCore\\Dominio\\Dominio.csproj"
+            "C:\\solucionCore\\Dominio\\Dominio.csproj": {
+              "projectPath": "C:\\solucionCore\\Dominio\\Dominio.csproj"
             },
-            "c:\\solucionCore\\Persistencia\\Persistencia.csproj": {
-              "projectPath": "c:\\solucionCore\\Persistencia\\Persistencia.csproj"
+            "C:\\solucionCore\\Persistencia\\Persistencia.csproj": {
+              "projectPath": "C:\\solucionCore\\Persistencia\\Persistencia.csproj"
             }
           }
         }

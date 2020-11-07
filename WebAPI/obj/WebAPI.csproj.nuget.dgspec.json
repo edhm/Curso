@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\solucionCore\\WebAPI\\WebAPI.csproj": {}
+    "C:\\solucionCore\\WebAPI\\WebAPI.csproj": {}
   },
   "projects": {
-    "c:\\solucionCore\\Aplicacion\\Aplicacion.csproj": {
+    "C:\\solucionCore\\Aplicacion\\Aplicacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\solucionCore\\Aplicacion\\Aplicacion.csproj",
+        "projectUniqueName": "C:\\solucionCore\\Aplicacion\\Aplicacion.csproj",
         "projectName": "Aplicacion",
-        "projectPath": "c:\\solucionCore\\Aplicacion\\Aplicacion.csproj",
+        "projectPath": "C:\\solucionCore\\Aplicacion\\Aplicacion.csproj",
         "packagesPath": "C:\\Users\\JackStv\\.nuget\\packages\\",
-        "outputPath": "c:\\solucionCore\\Aplicacion\\obj\\",
+        "outputPath": "C:\\solucionCore\\Aplicacion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JackStv\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,11 +27,11 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "c:\\solucionCore\\Dominio\\Dominio.csproj": {
-                "projectPath": "c:\\solucionCore\\Dominio\\Dominio.csproj"
+              "C:\\solucionCore\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\solucionCore\\Dominio\\Dominio.csproj"
               },
-              "c:\\solucionCore\\Persistencia\\Persistencia.csproj": {
-                "projectPath": "c:\\solucionCore\\Persistencia\\Persistencia.csproj"
+              "C:\\solucionCore\\Persistencia\\Persistencia.csproj": {
+                "projectPath": "C:\\solucionCore\\Persistencia\\Persistencia.csproj"
               }
             }
           }
@@ -66,14 +66,14 @@
         }
       }
     },
-    "c:\\solucionCore\\Dominio\\Dominio.csproj": {
+    "C:\\solucionCore\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\solucionCore\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "C:\\solucionCore\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "c:\\solucionCore\\Dominio\\Dominio.csproj",
+        "projectPath": "C:\\solucionCore\\Dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\JackStv\\.nuget\\packages\\",
-        "outputPath": "c:\\solucionCore\\Dominio\\obj\\",
+        "outputPath": "C:\\solucionCore\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JackStv\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -121,14 +121,14 @@
         }
       }
     },
-    "c:\\solucionCore\\Persistencia\\Persistencia.csproj": {
+    "C:\\solucionCore\\Persistencia\\Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\solucionCore\\Persistencia\\Persistencia.csproj",
+        "projectUniqueName": "C:\\solucionCore\\Persistencia\\Persistencia.csproj",
         "projectName": "Persistencia",
-        "projectPath": "c:\\solucionCore\\Persistencia\\Persistencia.csproj",
+        "projectPath": "C:\\solucionCore\\Persistencia\\Persistencia.csproj",
         "packagesPath": "C:\\Users\\JackStv\\.nuget\\packages\\",
-        "outputPath": "c:\\solucionCore\\Persistencia\\obj\\",
+        "outputPath": "C:\\solucionCore\\Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JackStv\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -144,8 +144,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "c:\\solucionCore\\Dominio\\Dominio.csproj": {
-                "projectPath": "c:\\solucionCore\\Dominio\\Dominio.csproj"
+              "C:\\solucionCore\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\solucionCore\\Dominio\\Dominio.csproj"
               }
             }
           }
@@ -192,14 +192,14 @@
         }
       }
     },
-    "c:\\solucionCore\\WebAPI\\WebAPI.csproj": {
+    "C:\\solucionCore\\WebAPI\\WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\solucionCore\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "C:\\solucionCore\\WebAPI\\WebAPI.csproj",
         "projectName": "WebAPI",
-        "projectPath": "c:\\solucionCore\\WebAPI\\WebAPI.csproj",
+        "projectPath": "C:\\solucionCore\\WebAPI\\WebAPI.csproj",
         "packagesPath": "C:\\Users\\JackStv\\.nuget\\packages\\",
-        "outputPath": "c:\\solucionCore\\WebAPI\\obj\\",
+        "outputPath": "C:\\solucionCore\\WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JackStv\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -215,8 +215,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "c:\\solucionCore\\Aplicacion\\Aplicacion.csproj": {
-                "projectPath": "c:\\solucionCore\\Aplicacion\\Aplicacion.csproj"
+              "C:\\solucionCore\\Aplicacion\\Aplicacion.csproj": {
+                "projectPath": "C:\\solucionCore\\Aplicacion\\Aplicacion.csproj"
               }
             }
           }

@@ -2,8 +2,10 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Dominio;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
+using Persistencia;
 
 namespace WebAPI.Controllers
 {
@@ -13,10 +15,16 @@ namespace WebAPI.Controllers
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
     {
+        private readonly CursosOnlineContext context;
+        public WeatherForecastController(CursosOnlineContext _context)
+        {
+            this.context= _context;
+        }
         [HttpGet]
-        public IEnumerable<string> GetJava(){
-            string[] nombresJava=new[]{"JAVA OCA","JAVA OCP", "JAVA SOA","JAVA MICROSERVICES","JAVA ARCHITECT"};
-            return nombresJava;
+        public IEnumerable<Curso> Get(){
+            
+            return context.Curso.ToList();
+        
         }
     }
 }

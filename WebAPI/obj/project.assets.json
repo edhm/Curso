@@ -5779,11 +5779,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\solucionCore\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "C:\\solucionCore\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "c:\\solucionCore\\WebAPI\\WebAPI.csproj",
+      "projectPath": "C:\\solucionCore\\WebAPI\\WebAPI.csproj",
       "packagesPath": "C:\\Users\\JackStv\\.nuget\\packages\\",
-      "outputPath": "c:\\solucionCore\\WebAPI\\obj\\",
+      "outputPath": "C:\\solucionCore\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\JackStv\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5799,8 +5799,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "c:\\solucionCore\\Aplicacion\\Aplicacion.csproj": {
-              "projectPath": "c:\\solucionCore\\Aplicacion\\Aplicacion.csproj"
+            "C:\\solucionCore\\Aplicacion\\Aplicacion.csproj": {
+              "projectPath": "C:\\solucionCore\\Aplicacion\\Aplicacion.csproj"
             }
           }
         }
