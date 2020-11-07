@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\solucionCore\\Persistencia\\Persistencia.csproj": {}
+    "c:\\solucionCore\\Persistencia\\Persistencia.csproj": {}
   },
   "projects": {
-    "C:\\solucionCore\\Dominio\\Dominio.csproj": {
+    "c:\\solucionCore\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\solucionCore\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "c:\\solucionCore\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "C:\\solucionCore\\Dominio\\Dominio.csproj",
+        "projectPath": "c:\\solucionCore\\Dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\JackStv\\.nuget\\packages\\",
-        "outputPath": "C:\\solucionCore\\Dominio\\obj\\",
+        "outputPath": "c:\\solucionCore\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JackStv\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,14 +59,14 @@
         }
       }
     },
-    "C:\\solucionCore\\Persistencia\\Persistencia.csproj": {
+    "c:\\solucionCore\\Persistencia\\Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\solucionCore\\Persistencia\\Persistencia.csproj",
+        "projectUniqueName": "c:\\solucionCore\\Persistencia\\Persistencia.csproj",
         "projectName": "Persistencia",
-        "projectPath": "C:\\solucionCore\\Persistencia\\Persistencia.csproj",
+        "projectPath": "c:\\solucionCore\\Persistencia\\Persistencia.csproj",
         "packagesPath": "C:\\Users\\JackStv\\.nuget\\packages\\",
-        "outputPath": "C:\\solucionCore\\Persistencia\\obj\\",
+        "outputPath": "c:\\solucionCore\\Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JackStv\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\solucionCore\\Dominio\\Dominio.csproj": {
-                "projectPath": "C:\\solucionCore\\Dominio\\Dominio.csproj"
+              "c:\\solucionCore\\Dominio\\Dominio.csproj": {
+                "projectPath": "c:\\solucionCore\\Dominio\\Dominio.csproj"
               }
             }
           }
@@ -97,6 +97,18 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",

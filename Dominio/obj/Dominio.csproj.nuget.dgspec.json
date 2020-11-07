@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\solucionCore\\Dominio\\Dominio.csproj": {}
+    "c:\\solucionCore\\Dominio\\Dominio.csproj": {}
   },
   "projects": {
-    "C:\\solucionCore\\Dominio\\Dominio.csproj": {
+    "c:\\solucionCore\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\solucionCore\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "c:\\solucionCore\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "C:\\solucionCore\\Dominio\\Dominio.csproj",
+        "projectPath": "c:\\solucionCore\\Dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\JackStv\\.nuget\\packages\\",
-        "outputPath": "C:\\solucionCore\\Dominio\\obj\\",
+        "outputPath": "c:\\solucionCore\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JackStv\\AppData\\Roaming\\NuGet\\NuGet.Config",
